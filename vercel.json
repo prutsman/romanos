@@ -1,0 +1,8 @@
+   {
+     "redirects": [
+       { "source": "/index.htm", "destination": "/", "permanent": true },
+       { "source": "/map.htm", "destination": "/#visit", "permanent": true },
+       { "source": "/RomanosBanquet.pdf", "destination": "/banquets.htm", "permanent": true },
+       { "source": "/images/:path*", "destination": "/#story", "permanent": true }
+     ]
+   }
